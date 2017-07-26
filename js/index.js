@@ -1,7 +1,5 @@
 // Simple quadratic solver 
 
-prompt ('Enter your name');
-
 var a = Number(prompt('Enter A'));
 var b = Number(prompt('Enter B'));
 var c = Number(prompt('Enter C'));
